@@ -59,6 +59,25 @@ Add additional models (XGBoost, RandomForest, LightGBM)
 Add SHAP-based explainability and model monitoring
 Package as a Streamlit/FastAPI demo for real‑time scoring
 
+# Screenshots
+<img width="932" height="946" alt="{E5F80C11-C9A1-49F3-9419-0318C341D686}" src="https://github.com/user-attachments/assets/faa431e7-d08e-412d-9712-7c33a77caebf" />
+
+<img width="795" height="631" alt="{B225567C-4FF3-4B42-BDB5-3252A0E5600B}" src="https://github.com/user-attachments/assets/4afb8fd9-75d0-4f69-b176-b404c9ebb42e" />
+
+<img width="727" height="890" alt="{0A6E68FC-B6EA-4A86-A0F6-BF5A8122E523}" src="https://github.com/user-attachments/assets/ee0df46e-6b07-43a2-b417-0618322b44fe" />
+
+<img width="618" height="852" alt="{CEE458F8-8257-49CA-9003-625627390593}" src="https://github.com/user-attachments/assets/9aa1225b-dca5-4bfb-b97c-3bf43935f2a0" />
+
+<img width="609" height="785" alt="{2BDAFD97-A4F5-432D-B489-3E05BD55C8C7}" src="https://github.com/user-attachments/assets/076a4417-5ef9-4faa-a606-3abe8b69fe34" />
+
+<img width="617" height="810" alt="{0FDA9316-1566-48F8-9FB4-A7D363A9DB67}" src="https://github.com/user-attachments/assets/e6331857-f726-4153-8a6b-724f6b67e9a5" />
+
+<img width="618" height="807" alt="{B12AF6F3-1A74-4BFB-9EFE-3EE8404944A1}" src="https://github.com/user-attachments/assets/a44dd392-900c-4178-ae86-ddcfc439135a" />
+
+<img width="618" height="832" alt="{16C14196-893D-46BC-B6C9-EC0805105EC2}" src="https://github.com/user-attachments/assets/7289a090-8b0f-4766-a79e-3073543e221e" />
+
+<img width="612" height="934" alt="{21272287-41E9-4DCA-9F0A-3060A619EDA2}" src="https://github.com/user-attachments/assets/932c090e-b858-445d-adf2-28fc5d5629dc" />
+
 # License
 MIT — see LICENSE.
 
