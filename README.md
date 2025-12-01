@@ -37,10 +37,23 @@ Place diabetes.csv in data/ or update the path in the notebook/script.
 Python, pandas, NumPy, scikit‑learn, SciPy, Matplotlib, Seaborn, Jupyter/Colab
 
 # Project Structure
-notebooks/Diabetes_Prediction.ipynb — end‑to‑end workflow
-data/diabetes.csv — dataset (not included; add locally)
-requirements.txt — dependencies
-reports/ — generated plots (confusion matrix, ROC, CV charts)
+Diabetes-Prediction/
+│
+├── notebooks/
+│   └── Diabetes_Prediction.ipynb   # Jupyter Notebook with full ML workflow
+│
+├── data/
+│   └── diabetes.csv                # Dataset (not included; add locally)
+│
+├── requirements.txt                # Python dependencies for reproducibility
+│
+├── reports/
+│   ├── confusion_matrix.png        # Classification error visualization
+│   ├── roc_curve.png               # ROC curve for model evaluation
+│   └── cv_results.png              # Cross-validation performance charts
+│
+└── README.md                       # Project documentation
+
 
 # Setup
 ## Python 3.9+
