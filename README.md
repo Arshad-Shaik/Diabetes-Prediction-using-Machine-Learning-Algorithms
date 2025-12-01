@@ -21,11 +21,15 @@ Production-grade Python project to predict diabetes risk using the Pima Indians 
 **Reproducibility**: deterministic random_state, documented environment
 
 # Results (example run)
-Decision Tree — Acc: 0.7468 | Prec: 0.6250 | Recall: 0.7273 | F1: 0.6723
-SVM — Acc: 0.7273 | Prec: 0.6327 | Recall: 0.5636 | F1: 0.5962
-Logistic Regression — Acc: 0.7532 | Prec: 0.6491 | Recall: 0.6727 | F1: 0.6607
-10-fold CV mean accuracy: DT ≈ 0.7018, SVM ≈ 0.7604, LR ≈ 0.7722
-Friedman p-value ≈ 0.0017 → significant performance differences
+**Decision Tree** — Acc: 0.7468 | Prec: 0.6250 | Recall: 0.7273 | F1: 0.6723
+
+**SVM** — Acc: 0.7273 | Prec: 0.6327 | Recall: 0.5636 | F1: 0.5962
+
+**Logistic Regression** — Acc: 0.7532 | Prec: 0.6491 | Recall: 0.6727 | F1: 0.6607
+
+**10-fold CV mean** accuracy: DT ≈ 0.7018, SVM ≈ 0.7604, LR ≈ 0.7722
+
+**Friedman** p-value ≈ 0.0017 → significant performance differences
 
 #### Note: Metrics may vary by environment and seed.
 
